@@ -6,6 +6,7 @@ Features:
 - Spieler Movement (ausbaufähig)
 - Spieler Interaktion mit Objekten
 - Aufheben bzw. das Bewegen von Kugeln und Schlüssel zur Öffnung von Passagen
+- Düstere Umgebung
 - Patrouillierende Skelette
 - Tödliche Fallen
 - UI (Zeit, Münzen, Tode)
