@@ -30,3 +30,9 @@ Assets:
 - Awesome Low Poly Fantasy Clouds
 
 Alle erwähnten Assets sind im [Unity Asset Store](https://assetstore.unity.com/) zu finden.
+
+Einige Ausschnitte aus dem Game:
+
+
+
+
