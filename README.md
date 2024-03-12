@@ -33,7 +33,7 @@ Alle erwähnten Assets sind im [Unity Asset Store](https://assetstore.unity.com/
 
 Einige Ausschnitte aus dem Game:
 
-![StartingRoom](/../main/Assets/GitHubImages/StartingRoom.png)
+![StartingRoom](Assets/GitHubImages/BlueCrystal.PNG)
 ![HiddenRoom01](/Assets/GitHubImages/HiddenRoom01.png)
 ![MainRoom01](/Assets/GitHubImages/MainRoom01.png)
 ![MainRoom02](/Assets/GitHubImages/MainRoom02.png)
