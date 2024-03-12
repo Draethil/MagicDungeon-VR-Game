@@ -33,6 +33,11 @@ Alle erwähnten Assets sind im [Unity Asset Store](https://assetstore.unity.com/
 
 Einige Ausschnitte aus dem Game:
 
-
-
-
+![StartingRoom](/Assets/GitHubImages/StartingRoom.png)
+![HiddenRoom01](/Assets/GitHubImages/HiddenRoom01.png)
+![MainRoom01](/Assets/GitHubImages/MainRoom01.png)
+![MainRoom02](/Assets/GitHubImages/MainRoom02.png)
+![BlueCrystal](/Assets/GitHubImages/BlueCrystal.png)
+![Traps01](/Assets/GitHubImages/Traps01.png)
+![SkeletonKill1](/Assets/GitHubImages/SkeletonKill1.png)
+![SkeletonKill2](/Assets/GitHubImages/SkeletonKill2.png)
