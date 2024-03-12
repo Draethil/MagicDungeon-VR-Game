@@ -4,7 +4,7 @@ Diese Projekt ist während dem Studium im Modul VRAR entstanden. Zum Antesten wi
 
 Features:
 - Spieler Movement (ausbaufähig)
-- Spieler Interaktion mit Objekten
+- Spieler Interaktion mit Objekten (Kisten, Türen, Fässer, Vasen, etc.)
 - Aufheben bzw. das Bewegen von Kugeln und Schlüssel zur Öffnung von Passagen
 - Düstere Umgebung
 - Patrouillierende Skelette
