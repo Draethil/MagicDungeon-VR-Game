@@ -28,4 +28,4 @@ Assets:
 - Free Skybox Extended Shader
 - Awesome Low Poly Fantasy Clouds
 
-Alle erwähnten Assets sind im [Unity Asset Store](https://assetstore.unity.com/) zu finden. (https://assetstore.unity.com/)
+Alle erwähnten Assets sind im [Unity Asset Store](https://assetstore.unity.com/) zu finden.
