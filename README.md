@@ -43,4 +43,5 @@ Assets:
 Alle erwähnten Assets sind im [Unity Asset Store](https://assetstore.unity.com/) zu finden.
 
 Unity Version: 2020.3.20f1
+
 VR-Brille: HTC Vive
