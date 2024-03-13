@@ -1,6 +1,6 @@
 # MagicDungeon-VR-Game
 
-Diese Projekt ist während dem Studium im Modul VRAR entstanden. Zum Antesten wird eine HTC Vive benötigt.
+Dieses Projekt ist während dem Studium im Modul VRAR entstanden.
 
 Features:
 - Spieler Movement (ausbaufähig)
@@ -12,6 +12,17 @@ Features:
 - UI (Zeit, Münzen, Tode)
 - Sammeln von versteckten Münzen
 - Lokales Leaderboard
+
+Einige Ausschnitte aus dem Game:
+
+![StartingRoom](Assets/GitHubImages/StartingRoom.PNG)
+![HiddenRoom01](/Assets/GitHubImages/HiddenRoom01.PNG)
+![MainRoom01](/Assets/GitHubImages/MainRoom01.PNG)
+![MainRoom02](/Assets/GitHubImages/MainRoom02.PNG)
+![BlueCrystal](/Assets/GitHubImages/BlueCrystal.PNG)
+![Traps01](/Assets/GitHubImages/Traps01.PNG)
+![SkeletonKill1](/Assets/GitHubImages/SkeletonKill1.PNG)
+![SkeletonKill2](/Assets/GitHubImages/SkeletonKill2.PNG)
 
 Packages:
 - OpenXR Plugin - Version 1.2.8
@@ -31,13 +42,5 @@ Assets:
 
 Alle erwähnten Assets sind im [Unity Asset Store](https://assetstore.unity.com/) zu finden.
 
-Einige Ausschnitte aus dem Game:
-
-![StartingRoom](Assets/GitHubImages/StartingRoom.PNG)
-![HiddenRoom01](/Assets/GitHubImages/HiddenRoom01.PNG)
-![MainRoom01](/Assets/GitHubImages/MainRoom01.PNG)
-![MainRoom02](/Assets/GitHubImages/MainRoom02.PNG)
-![BlueCrystal](/Assets/GitHubImages/BlueCrystal.PNG)
-![Traps01](/Assets/GitHubImages/Traps01.PNG)
-![SkeletonKill1](/Assets/GitHubImages/SkeletonKill1.PNG)
-![SkeletonKill2](/Assets/GitHubImages/SkeletonKill2.PNG)
+Unity Version: 2020.3.20f1
+VR-Brille: HTC Vive
